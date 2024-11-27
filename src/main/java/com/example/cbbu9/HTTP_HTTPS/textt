@@ -1,0 +1,14 @@
+http, htpps : là các giao thức truyền tải dữ liệu giữa Client và Server (ví dụ: trình duyệt web và website).
+
+HTTP (Hypertext Transfer Protocol): dữ liệu ko được mã hóa sẽ gửi dưới dạng rõ ràng, chi tiết bản thực ,
+        Nội dung ko được mã hóa sẽ làm cho hacker dễ dàng can thiệp và xem sửa thông tin qua chặn luồng
+        2 phương thức phổ biến là get và post:
+
+HTTPS (HTTP Secure): HTTPS là phiên bản bảo mật của HTTP, kết hợp với mã hóa SSL/TLS (Secure Socket Layer / Transport Layer Security).
+
+    SSL (Secure Sockets Layer)
+        -, Mã hóa : Đảm bảo dữ liệu không thể bị đọc, thay đổi , giả mạo  trong quá trình truyền tải.
+        -, Xác thực: Đảm bảo rằng người dùng kết nối với đúng server, không phải một server giả mạo.
+        -, Toàn vẹn dữ liệu: Đảm bảo dữ liệu không bị thay đổi hoặc giả mạo trong quá trình truyền tải.
+
+    TLS (Transport Layer Security): là bản kế tiếp của SSL bảo mật hơn

@@ -1,0 +1,27 @@
+        HTTP Request:
+    Request Line:
+Cú pháp: METHOD URL HTTP/Version.
+Ví dụ: GET /index.html HTTP/1.1.
+
+    Headers:
+Metadata: Host, User-Agent, Accept,...
+Ví dụ: Host: www.example.com.
+// tên miền (host)
+// thông tin ứng dụng đang gửi yêu cầu (User-Agent)
+    Body: Dữ liệu gửi lên (POST request).
+
+
+        HTTP Response:
+    Status Line:
+Cú pháp: HTTP/Version Status-Code Reason-Phrase.
+Ví dụ: HTTP/1.1 200 OK
+
+    Headers:
+Metadata: Content-Type, Content-Length,...
+Ví dụ: Content-Type: text/html.
+
+    Body:
+Nội dung trả về (HTML, JSON,...).
+
+
+

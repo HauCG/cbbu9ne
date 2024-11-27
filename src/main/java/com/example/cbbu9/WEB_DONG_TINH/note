@@ -1,0 +1,11 @@
+Website: Tập hợp các trang web liên kết với nhau, có nội dung được truy cập qua trình duyệt.
+
+    Web tĩnh:
+Nội dung cố định, không thay đổi theo yêu cầu người dùng.
+Thường dùng HTML, CSS, và JavaScript.
+Ví dụ: Trang giới thiệu công ty.
+
+    Web động:
+Nội dung thay đổi dựa trên tương tác người dùng.
+Kết hợp server-side (PHP, Java, Python) và cơ sở dữ liệu.
+Ví dụ: Mạng xã hội, trang thương mại điện tử.
